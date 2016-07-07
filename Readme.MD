@@ -12,4 +12,4 @@ This extension displays the imdb ratings of movies on watchseries.cr.
 
 #Run
 
-Open [watchseries](watchseries.cr) and see the imdb ratings
+Open [watchseries](http://watchseries.cr) and see the imdb ratings
