@@ -5,8 +5,8 @@ This extension displays the imdb ratings of movies on watchseries.cr.
 #Usage
 
 ```
-1. enable devoloper mode of chrome extension window
-2. Load the project into it
-3. Open watchseries.cr and see the imdb ratings
+1. Enable devoloper mode of chrome extension window
+2. Load the folder into it
+3. Open [I'm an inline-style link](watchseries.cr) and see the imdb ratings
 
 ```
